@@ -10,7 +10,7 @@
 # In[13]:
 
 
-pip install streamlit
+
 
 
 # In[14]:
